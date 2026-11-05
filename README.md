@@ -58,14 +58,6 @@ python main.py "Distributed training strategies for small research teams"
 
 You'll get the final title, executive summary, technical details, and key takeaways printed to the terminal, plus how many fact-check passes the research went through.
 
-## Screenshots
-
-Sample run (`python main.py` with the default demo topic) — drop these into `docs/` and they'll show up here:
-
-![Example run](docs/screenshot-run.png)
-
-Because the app calls live APIs (OpenAI + Tavily), I haven't committed canned screenshots — run it yourself and replace `docs/screenshot-run.png` with your own terminal capture.
-
 ## How the graph flows
 
 ```text
